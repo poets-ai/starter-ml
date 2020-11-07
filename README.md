@@ -1,6 +1,6 @@
 # ML Starter Repo
 
-##0. INTRO
+## 0. INTRO
 We will train a model (1. TRAINING) and later served it (2. ML API Service). Start by cloning the repo:
 
  ``` 
@@ -8,7 +8,7 @@ We will train a model (1. TRAINING) and later served it (2. ML API Service). Sta
 ```
 
 
-##1.  TRAINING
+## 1.  TRAINING
 
 ### Motivation
 
